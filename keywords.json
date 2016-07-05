@@ -2047,7 +2047,7 @@
   "rubanm/ignite-scala": [],
   "ruippeixotog/classutil": [],
   "ruippeixotog/scala-scraper": ["html", "scraping"],
-  "ruippeixotog/think-bayes-scala": [],
+  "ruippeixotog/think-bayes-scala": ["math", "ml"],
   "runarorama/scala-bound": [],
   "runarorama/scala-machines": ["fp"],
   "ryanbrozo/spray-hawk": [],
