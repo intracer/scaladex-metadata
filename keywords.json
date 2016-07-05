@@ -1069,7 +1069,7 @@
   "jasongoodwin/authentikat-jwt": [],
   "jasongoodwin/better-java-monads": [],
   "jboner/akka-crdt": ["deprecated", "akka", "distributed", "db"],
-  "jcazevedo/moultingyaml": [],
+  "jcazevedo/moultingyaml": ["yaml"],
   "jcranky/lojinha": ["sample-project", "web", "akka"],
   "jdegoes/blueeyes": ["rest", "deprecated", "web-framework"],
   "jdgoldie/akka-persistence-gridgain-experimental": [],
