@@ -1024,7 +1024,7 @@
   "inthenow/catalysts": [],
   "inthenow/scala-bricks": [],
   "inthenow/scalatest-jasmine": [],
-  "intracer/scalawiki": [],
+  "intracer/scalawiki": ["mediawiki", "mediawikiapi", "wiki", "wikipedia", "bot"],
   "iot-dsa/sdk-dslink-scala": [],
   "iot-dsa/sdk-dslink-scala-spark": [],
   "ipsq/2048-scalajs-facade": [],
